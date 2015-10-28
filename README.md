@@ -8,4 +8,4 @@ Installation
 -----
 If you trust me, here's a one-line installation:
 
-    git clone https://github.com/thomascoe/vimrc.git ~/.thomas-vimrc; ~/.thomas-vimrc/setup_vimrc.sh
+    git clone https://github.com/ChrisDeese/vimrc.git ~/.chris-vimrc; ~/.chris-vimrc/setup_vimrc.sh
